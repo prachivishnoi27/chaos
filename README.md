@@ -11,3 +11,5 @@ Please install SFML before building.
 After launching the program please enter the coeffient and exponents of x y z and 
 only coefficient of xy, yx and zx. Please keep the numbers smaller to assist the
  program working normally.
+ 
+ Based on Project by HackerPoet.Thanks !
